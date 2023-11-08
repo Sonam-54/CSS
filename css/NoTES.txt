@@ -1,0 +1,21 @@
+5.
+using the anchor tag of HTML, we can create any text or image as a hyperlink.
+for eg: 
+<a href="https:www.udemy.com">Clink Here For Udemy</a> 
+
+6.css layers 
+z-index tells us about the layer sequence
+
+fontawesome 5th version we can use this in css
+google font using in css
+
+14.css positioning
+1.absolute positioning 2. Relative Positining 3. Fixed positioning
+ positioning ma relative relative 2 ta div banayo vani overlap hunna tara absolute ra relative banayo vani hunxa.absolute ko case ma overlapping afai hunxa as it is just concerned with the value 
+
+17..
+selectors
+name selectors
+class selectors
+Id selectors
+Universal selectors
